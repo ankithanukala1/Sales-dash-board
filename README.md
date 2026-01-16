@@ -23,3 +23,4 @@ Monthly sales trend visualization
 Interactive filters and drill-down analysis
 
 #SCREENSHOT
+https://github.com/ankithanukala1/Sales-dash-board/blob/main/sales%20dash%20board.png
