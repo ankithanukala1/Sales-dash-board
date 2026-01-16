@@ -7,10 +7,15 @@ Built an interactive Sales Dashboard to analyze total sales, customers, transact
 #Technologies 
 
 .Power BI Desktop
+
 .Power Query (ETL)
+
 .DAX (KPIs & measures)
+
 .Data Modeling
+
 .Excel / CSV data sources
+
 .Power BI Service
 
 #Key Features
